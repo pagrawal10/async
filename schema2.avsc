@@ -1,1 +1,0 @@
-{"type":"record","name":"Msg","namespace":"com.mycorp.mynamespace","doc":"Sample schema to help you get started.","fields":[{"name":"orderId","type":"int","doc":"The id of the order."}]}
